@@ -1,4 +1,4 @@
-## Won-Yong Lee
+## Won-Yong Lee, Back-end Developer
 * Spring
 * AWS
 
