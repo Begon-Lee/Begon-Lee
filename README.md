@@ -5,10 +5,10 @@
 ---
 
 ### Projects  
-- Sparta game club - 게이머 커뮤니티 [[🔗About]](https://github.com/japgo/spring_portfolio/blob/master/sparta_game_club.md)  
-- Show me your recipe - 래시피 공유 사이트 [[🔗About]](https://github.com/japgo/spring_study/tree/master/ShowMeYourRecipe)   
-- 익명 게시판 프로젝트 [[🔗About]](https://github.com/japgo/spring_study/tree/master/BackOffice/BackOffice)  
-- JAVA Kiosk - 콘솔 키오스크 프로그램 [[🔗About]](https://github.com/japgo/console_kiosk)  
+- Sparta game club - 게이머 커뮤니티 [[🔗About]](https://github.com/Begon-Lee/Begon-Lee/blob/main/spartagameclub.md)  
+- Show me your recipe - 래시피 공유 사이트 [[🔗About]]()   
+- 익명 게시판 프로젝트 [[🔗About]]()  
+- JAVA Kiosk - 콘솔 키오스크 프로그램 [[🔗About]]()  
 
 ---
 
